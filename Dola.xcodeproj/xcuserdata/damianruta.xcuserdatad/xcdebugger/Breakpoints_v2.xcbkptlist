@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0D5A6BC1-B8AA-4EF2-B05C-094D5B438EE6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69C95301-0EB2-406B-9FF0-EBE1964D3AC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dola/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "startTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "69C95301-0EB2-406B-9FF0-EBE1964D3AC0 - 5f6dcfca6725f551"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dola.ContentView.startTimer() -&gt; ()"
+                  moduleName = "Dola"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damianruta/Workspace/Projects/Dola/Dola/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "69C95301-0EB2-406B-9FF0-EBE1964D3AC0 - 5f6dcfca6725f517"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dola.ContentView.startTimer() -&gt; ()"
+                  moduleName = "Dola"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damianruta/Workspace/Projects/Dola/Dola/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "69C95301-0EB2-406B-9FF0-EBE1964D3AC0 - 5f6dcfca6725f517"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dola.ContentView.startTimer() -&gt; ()"
+                  moduleName = "Dola"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damianruta/Workspace/Projects/Dola/Dola/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
